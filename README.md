@@ -44,7 +44,7 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-repo/PSUSphere.git
+git clone https://github.com/yapcarloo/PSUSphere.git
 cd PSUSphere
 
 # 2. Set up virtual environment
@@ -130,7 +130,7 @@ MIT License - See LICENSE for details.
 
 # settings.py
 DEBUG = False
-ALLOWED_HOSTS = ['yourdomain.com']
+ALLOWED_HOSTS = ['yaploquillano.pythonanywhere.com']
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
